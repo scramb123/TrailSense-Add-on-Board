@@ -1,0 +1,4217 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "591639e7-4932-44f8-8380-9b9c14c58ce7")
+	(paper "User" 277.012 190.017)
+	(lib_symbols
+		(symbol "ProPrj_sw -easyedapro:Connector_Conn_01x09_Pin"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x09_Pin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:OSO-SWAB-B1-00 Sensor Watch Accelerometer:FH19C9S05SH10-FFC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Connector_Conn_01x09_Pin_1_0"
+				(rectangle
+					(start 0 -10.2616)
+					(end 0.8382 -10.0076)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 -7.7216)
+					(end 0.8382 -7.4676)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 -5.1816)
+					(end 0.8382 -4.9276)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 -2.6416)
+					(end 0.8382 -2.3876)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 -0.127)
+					(end 0.8382 0.127)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 -10.1346) (xy 0.8382 -10.1346)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 -7.5946) (xy 0.8382 -7.5946)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 -5.0546) (xy 0.8382 -5.0546)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 -2.5146) (xy 0.8382 -2.5146)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 0) (xy 0.8382 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 2.5146) (xy 0.8382 2.5146)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 5.0546) (xy 0.8382 5.0546)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 7.5946) (xy 0.8382 7.5946)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.2446 10.1346) (xy 0.8382 10.1346)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 2.3876)
+					(end 0.8382 2.6416)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 4.9276)
+					(end 0.8382 5.1816)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 7.4676)
+					(end 0.8382 7.7216)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 10.0076)
+					(end 0.8382 10.2616)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 10.1346 180)
+					(length 3.7846)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 7.5946 180)
+					(length 3.7846)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 5.0546 180)
+					(length 3.7846)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 2.5146 180)
+					(length 3.7846)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 0 180)
+					(length 3.7846)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 -2.5146 180)
+					(length 3.7846)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 -5.0546 180)
+					(length 3.7846)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 -7.5946 180)
+					(length 3.7846)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 -10.1346 180)
+					(length 3.7846)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ProPrj_sw -easyedapro:Device_C"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "10μF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:Capacitor_SMD:C_0402_1005Metric"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Device_C_1_0"
+				(polyline
+					(pts
+						(xy -2.0066 -0.7366) (xy 2.0066 -0.7366)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.0066 0.7366) (xy 2.0066 0.7366)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 3.7846 270)
+					(length 2.7686)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -3.7846 90)
+					(length 2.7686)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ProPrj_sw -easyedapro:LPS22DF"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LPS22DF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LPS22DF_1_0"
+				(rectangle
+					(start -11.4046 -12.6746)
+					(end 11.4046 11.4046)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 13.9446 8.8646 180)
+					(length 2.5146)
+					(name "Vdd_IO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.9446 5.0546 180)
+					(length 2.5146)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.2573 1.2573)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -13.9446 8.8646 0)
+					(length 2.5146)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -5.0546 -12.6746 90)
+					(length 2.5146)
+					(name "RES"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.9446 5.0546 0)
+					(length 2.5146)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.9446 -1.2446 0)
+					(length 2.5146)
+					(name "SA0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -13.9446 -5.0546 0)
+					(length 2.5146)
+					(name "CS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 13.9446 -1.2446 180)
+					(length 2.5146)
+					(name "INT_DRDY"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -1.2446 -12.6746 90)
+					(length 2.5146)
+					(name "GND_IO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 2.5146 -12.6746 90)
+					(length 2.5146)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ProPrj_sw -easyedapro:LSM303AGR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LSM303AGR (I²C)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:Package_LGA:LGA-12_2x2mm_P0.5mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LSM303AGR_1_0"
+				(rectangle
+					(start -11.4046 -25.3746)
+					(end 11.4046 -1.2446)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -13.9446 -5.0546 0)
+					(length 2.5146)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.9446 -5.0546 180)
+					(length 2.5146)
+					(name "Vdd_IO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.2573 1.2573)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 13.9446 -16.4846 180)
+					(length 2.5146)
+					(name "INT_2_XL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.2573 1.2573)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 13.9446 -13.9446 180)
+					(length 2.5146)
+					(name "INT_1_XL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.2573 1.2573)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -13.9446 -11.4046 0)
+					(length 2.5146)
+					(name "CS_XL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -13.9446 -13.9446 0)
+					(length 2.5146)
+					(name "CS_MAG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.9446 -19.0246 0)
+					(length 2.5146)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -2.5146 -27.9146 90)
+					(length 2.5146)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 1.2446 -27.9146 90)
+					(length 2.5146)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 13.9446 -19.0246 180)
+					(length 2.5146)
+					(name "INT_MAG/DRDY"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.0546 -27.9146 90)
+					(length 2.5146)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.9446 -8.8646 180)
+					(length 2.5146)
+					(name "Vdd"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ProPrj_sw -easyedapro:POWER_GND"
+			(power)
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "POWER_GND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "POWER_GND_1_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.2446) (xy 0 -1.2446) (xy 1.2446 -1.2446) (xy 1.2446 -1.2446) (xy 0 -2.5146)
+						(xy 0 -2.5146) (xy -1.2446 -1.2446) (xy -1.2446 -1.2446) (xy 0 -1.2446)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ProPrj_sw -easyedapro:POWER_VCC"
+			(power)
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "POWER_VCC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "POWER_VCC_1_0"
+				(polyline
+					(pts
+						(xy -0.7366 1.2446) (xy 0 2.5146)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.5146)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.5146) (xy 0.7366 1.2446)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ProPrj_sw -easyedapro:default297x210"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ProPrj_sw -easyedapro:"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "default297x210_1_0"
+				(polyline
+					(pts
+						(xy 9.9822 -159.9946) (xy 11.9888 -159.9946)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.9822 -109.982) (xy 11.9888 -109.982)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.9822 -59.9948) (xy 11.9888 -59.9948)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 59.9948 -197.993) (xy 59.9948 -199.9996)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 59.9948 -11.9888) (xy 59.9948 -9.9822)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 109.982 -197.993) (xy 109.982 -199.9996)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 109.982 -11.9888) (xy 109.982 -9.9822)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 159.9946 -197.993) (xy 159.9946 -199.9996)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 159.9946 -11.9888) (xy 159.9946 -9.9822)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 176.9872 -194.4878) (xy 284.988 -194.4878)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 176.9872 -191.4906) (xy 284.988 -191.4906)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 176.9872 -187.4774) (xy 284.988 -187.4774)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 176.9872 -181.483) (xy 284.988 -181.483)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 196.977 -191.4906) (xy 196.977 -194.4878)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 209.9818 -197.993) (xy 209.9818 -199.9996)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 209.9818 -11.9888) (xy 209.9818 -9.9822)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 259.9944 -197.993) (xy 259.9944 -199.9996)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 259.9944 -11.9888) (xy 259.9944 -9.9822)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 260.985 -191.4906) (xy 260.985 -197.993)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 286.9946 -159.9946) (xy 284.988 -159.9946)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 286.9946 -109.982) (xy 284.988 -109.982)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 286.9946 -59.9948) (xy 284.988 -59.9948)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 9.9822 -199.9996)
+					(end 286.9946 -9.9822)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 11.9888 -197.993)
+					(end 284.988 -11.9888)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 176.9872 -197.993)
+					(end 284.988 -165.989)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "1"
+					(at 34.9758 -198.9836 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "1"
+					(at 34.9758 -10.9982 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "2"
+					(at 84.9884 -198.9836 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "2"
+					(at 84.9884 -10.9982 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "3"
+					(at 134.9756 -198.9836 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "3"
+					(at 134.9756 -10.9982 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "4"
+					(at 184.9882 -198.9836 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "4"
+					(at 184.9882 -10.9982 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "5"
+					(at 234.9754 -198.9836 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "5"
+					(at 234.9754 -10.9982 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "6"
+					(at 284.988 -198.9836 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "6"
+					(at 284.988 -10.9982 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+						(justify left)
+					)
+				)
+				(text "A"
+					(at 10.9982 -34.9758 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "A"
+					(at 285.9786 -34.9758 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "B"
+					(at 10.9982 -84.9884 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "B"
+					(at 285.9786 -84.9884 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "C"
+					(at 10.9982 -134.9756 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "C"
+					(at 285.9786 -134.9756 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "D"
+					(at 10.9982 -184.9882 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(text "D"
+					(at 285.9786 -184.9882 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 78.74 130.7846)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "107df13a-e59d-46d5-bc18-d66d30ebd135")
+	)
+	(junction
+		(at 137.16 128.2446)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d60f179-aa59-471f-a1b6-3ab8b9baf82f")
+	)
+	(junction
+		(at 151.1046 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "383f1202-ca1b-4253-8fe6-2546edcb61c5")
+	)
+	(junction
+		(at 95.25 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f2e8fac-8bf1-455e-8d18-53531686310a")
+	)
+	(junction
+		(at 133.35 128.2446)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5110eb4a-1790-4161-9c49-835066f25160")
+	)
+	(junction
+		(at 95.25 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69e021e1-74f8-4e2f-9bbc-f14ed17e7748")
+	)
+	(junction
+		(at 95.25 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a673f61e-7215-4d4f-a9cb-ed8389bb2603")
+	)
+	(junction
+		(at 53.34 106.6546)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0f1cfe7-2c9d-4088-9364-7b388ef5cc14")
+	)
+	(junction
+		(at 114.3 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c71b7499-71b7-45b4-8b08-c3fc284d660c")
+	)
+	(no_connect
+		(at 26.6446 124.4092)
+		(uuid "4dcddd84-182d-458b-a4a4-421c016a5704")
+	)
+	(wire
+		(pts
+			(xy 35.5346 104.14) (xy 26.67 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00f0d11d-dadb-45df-9757-9f86992cd20d")
+	)
+	(wire
+		(pts
+			(xy 148.59 106.68) (xy 151.1046 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "031cd863-c026-4858-b726-3664432779ec")
+	)
+	(wire
+		(pts
+			(xy 95.25 104.14) (xy 87.63 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05ccb63c-2922-4b0f-8788-cc2ee98339f7")
+	)
+	(wire
+		(pts
+			(xy 95.25 114.2746) (xy 87.63 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07f8208b-93d4-4320-83bd-bb7d0af92921")
+	)
+	(wire
+		(pts
+			(xy 151.1046 100.33) (xy 151.1046 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08c91927-e034-454d-bf4e-0d25404966b6")
+	)
+	(wire
+		(pts
+			(xy 133.35 124.4346) (xy 133.35 128.2446)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09252e8e-bdb4-4c79-b9f4-6eeaf2b9addf")
+	)
+	(wire
+		(pts
+			(xy 148.59 102.87) (xy 151.1046 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0979884d-85b6-418d-8cbd-aace43b8dac9")
+	)
+	(wire
+		(pts
+			(xy 35.5346 106.6546) (xy 26.67 106.6546)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1939107e-d771-4ed5-9b0a-7c10a2aa85bf")
+	)
+	(wire
+		(pts
+			(xy 96.52 104.14) (xy 95.25 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aac99b9-e262-479c-9ee3-b8c10a71b712")
+	)
+	(wire
+		(pts
+			(xy 35.5346 119.3546) (xy 26.67 119.3546)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b5d72fe-b349-44a2-a2a8-2f9ff5a975ed")
+	)
+	(wire
+		(pts
+			(xy 53.34 109.22) (xy 53.34 106.6546)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ceb29cd-fd39-431d-8666-c5b3a21dbd5e")
+	)
+	(wire
+		(pts
+			(xy 114.3 116.8146) (xy 114.3 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "341f1138-bd1c-4930-9058-95233b9b7207")
+	)
+	(wire
+		(pts
+			(xy 118.11 106.68) (xy 120.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc8cd05-ad9f-4954-9f5a-22e157683dae")
+	)
+	(wire
+		(pts
+			(xy 133.35 128.2446) (xy 137.16 128.2446)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d8d1472-b635-49ab-b93a-733add83bef1")
+	)
+	(wire
+		(pts
+			(xy 78.74 130.7846) (xy 78.74 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "446a02ed-3054-4633-bb8c-e4b81b73f088")
+	)
+	(wire
+		(pts
+			(xy 129.54 128.2446) (xy 133.35 128.2446)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a000d89-4b20-496d-a349-6ec31647aff9")
+	)
+	(wire
+		(pts
+			(xy 35.5346 121.8946) (xy 26.67 121.8946)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53372cd9-af72-455a-b196-2b4e2b13f1b2")
+	)
+	(wire
+		(pts
+			(xy 151.1046 102.87) (xy 152.3746 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "551e2836-1d70-413f-9fb0-0cedc4b4ea3a")
+	)
+	(wire
+		(pts
+			(xy 114.3 113.03) (xy 120.65 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "566cdae3-7c53-40a1-a060-dc47de58b402")
+	)
+	(wire
+		(pts
+			(xy 95.25 100.33) (xy 95.25 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f3bc307-32c9-47a7-9b04-368b441d06d3")
+	)
+	(wire
+		(pts
+			(xy 87.63 109.22) (xy 95.25 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66bd85ca-0b8d-44b4-8f72-f736c6e34805")
+	)
+	(wire
+		(pts
+			(xy 35.5346 114.2746) (xy 26.67 114.2746)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7212237a-07a8-420a-b84b-7114793ea8ff")
+	)
+	(wire
+		(pts
+			(xy 95.25 99.06) (xy 95.25 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "791cc29f-eadd-4d71-98a4-3bd87b8fcc24")
+	)
+	(wire
+		(pts
+			(xy 104.14 99.06) (xy 104.14 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d6e65cb-d079-4729-8b03-ea87693c54f8")
+	)
+	(wire
+		(pts
+			(xy 87.63 100.33) (xy 95.25 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fe8dd9a-5082-4b55-891d-73cb4f086ac0")
+	)
+	(wire
+		(pts
+			(xy 71.12 130.7846) (xy 78.74 130.7846)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8438f776-df45-4bf8-a53f-81ba87ba04a3")
+	)
+	(wire
+		(pts
+			(xy 59.69 114.3) (xy 57.15 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a3be5d9-32bc-4640-8236-a639b5624396")
+	)
+	(wire
+		(pts
+			(xy 74.93 123.19) (xy 74.93 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ada9a89-af7b-48ff-94a7-eac5a405cc1e")
+	)
+	(wire
+		(pts
+			(xy 59.69 100.33) (xy 55.88 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fe8ab4e-e572-4434-947b-5715555c1ca1")
+	)
+	(wire
+		(pts
+			(xy 95.25 92.71) (xy 95.25 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "918e754e-7794-4966-9d97-d897b84b63e2")
+	)
+	(wire
+		(pts
+			(xy 35.5346 111.7346) (xy 26.67 111.7346)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "982151b9-5a80-4dfa-825e-6f70425e74a9")
+	)
+	(wire
+		(pts
+			(xy 151.1046 106.68) (xy 151.1046 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8c7a54c-2e75-4960-b766-39677ec48463")
+	)
+	(wire
+		(pts
+			(xy 53.34 109.22) (xy 59.69 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9346db1-d988-4711-96db-a0b5ae6aae5f")
+	)
+	(wire
+		(pts
+			(xy 59.69 106.68) (xy 53.34 106.6546)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be665736-438c-4377-a9b5-42229f6fc5b8")
+	)
+	(wire
+		(pts
+			(xy 154.9146 113.03) (xy 148.59 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c264249d-3475-473c-bec6-316e3bc33084")
+	)
+	(wire
+		(pts
+			(xy 35.5346 116.8146) (xy 26.67 116.8146)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2bc058e-fad2-47f8-b598-25b36d55ca7a")
+	)
+	(wire
+		(pts
+			(xy 129.54 124.4346) (xy 129.54 128.2446)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1c7e308-d3c4-47b5-a846-feee334f19b8")
+	)
+	(wire
+		(pts
+			(xy 118.11 102.87) (xy 120.65 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d294e2a1-0bb7-4aae-affc-d4951058f427")
+	)
+	(wire
+		(pts
+			(xy 26.67 109.1946) (xy 35.5346 109.1946)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d669f24b-f753-45d3-b618-9ff3c2b6d0fc")
+	)
+	(wire
+		(pts
+			(xy 96.52 99.06) (xy 95.25 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d916eb8f-a52e-4e56-868e-6fb3d113e9b9")
+	)
+	(wire
+		(pts
+			(xy 87.63 111.76) (xy 95.25 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0289fce-a617-403b-ae25-220711944fbe")
+	)
+	(wire
+		(pts
+			(xy 137.16 124.4346) (xy 137.16 128.2446)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1b41de0-5cb2-4ca6-b3d4-07a8c9dd2699")
+	)
+	(wire
+		(pts
+			(xy 120.65 116.8146) (xy 114.3 116.8146)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9340220-977f-40aa-8ce6-2325a9d7328b")
+	)
+	(rectangle
+		(start 15.24 101.6)
+		(end 26.67 126.9746)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 70ded904-c24d-4f93-903f-b0d576d899a4)
+	)
+	(label "A1_INT1"
+		(at 35.5346 116.8146 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "30e08b72-637f-469b-b4e1-e05696f8831c")
+	)
+	(label "A4_INT1"
+		(at 95.25 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "4e6fc443-8708-49b3-a11d-a8d9fd6363dd")
+	)
+	(label "A3_INT2"
+		(at 35.5346 111.7346 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "5338b620-0921-4b67-ad3f-12f4cef945fb")
+	)
+	(label "VCC"
+		(at 35.5346 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b765e9a-d3da-4127-8e8b-1a64fc58161b")
+	)
+	(label "A4_INT1"
+		(at 35.5346 109.1946 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "66e4a67c-6def-4d6e-a4ed-a7e7ac9f9443")
+	)
+	(label "SDA"
+		(at 57.15 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "715f69a7-6f7d-4115-95e3-d1a453237348")
+	)
+	(label "GND"
+		(at 35.5346 106.6546 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "77130b0b-5fd9-4563-97f9-be131addba1a")
+	)
+	(label "SCL"
+		(at 35.5346 121.8946 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "82782593-5ebe-42bd-a2d5-902923f8b1d5")
+	)
+	(label "A2_INT3"
+		(at 35.5346 114.2746 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "a72e1121-4397-4b3a-9309-67ac50f0495c")
+	)
+	(label "SDA"
+		(at 35.5346 119.3546 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "cf74e092-ae8e-41ee-8457-0e771334fb35")
+	)
+	(label "SCL"
+		(at 55.88 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "d08519de-a99c-4e41-adab-87ec416ddfbc")
+	)
+	(label "A3_INT2"
+		(at 95.25 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "e8db4ff1-26fe-440f-b969-c1ecab34d62e")
+	)
+	(label "SDA"
+		(at 118.11 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "ebe41123-eb3e-4f54-9ba9-6231f8293e40")
+	)
+	(label "A2_INT3"
+		(at 95.25 114.2746 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "eddf63c6-6cbc-4e17-bf8b-3a431a42061b")
+	)
+	(label "SCL"
+		(at 118.11 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0f749e3-1d22-4a53-9e02-f34e271083e9")
+	)
+	(label "A1_INT1"
+		(at 154.9146 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "ff15f104-35b1-43f9-9ad0-b82a41e22323")
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_VCC")
+		(at 114.3 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1dc742f8-7f75-4cf5-8984-d817f44c5c53")
+		(property "Reference" "#PWR0102"
+			(at 114.3 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 114.3 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 114.3 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a2e3d96-b453-4fb1-89ed-cbbc18a7d36b")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_GND")
+		(at 137.16 128.2446 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "365c6e22-c6a9-49b5-8178-f90a4da0767c")
+		(property "Reference" "#PWR0108"
+			(at 137.16 128.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 137.16 128.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 137.16 128.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 128.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 128.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "321cd170-4ce8-4325-a0f3-4e31b9197299")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:Device_C")
+		(at 156.1846 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46e4a879-d26f-4aa6-b19e-89294b71ce41")
+		(property "Reference" "C4"
+			(at 156.21 96.012 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 155.956 98.552 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:Capacitor_SMD:C_0402_1005Metric"
+			(at 156.1846 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707763339.pdf"
+			(at 156.1846 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitance: Tolerance:±10% Tolerance:±10% Voltage Rated: Temperature Coefficient:"
+			(at 156.1846 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "CL03A104KP3NNNC"
+			(at 269.2146 269.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMSUNG(三星)"
+			(at 269.2146 269.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C49062"
+			(at 269.2146 269.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 269.2146 269.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "100nF ±10% 10V"
+			(at 269.2146 269.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "C_0201_0603Metric"
+			(at 159.9946 101.9048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "User doc link" "~"
+			(at 156.1846 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9c62ba6-8ee1-4bbb-a457-7ccbc8300ab4")
+		)
+		(pin "2"
+			(uuid "8355764a-c3b9-4396-8894-c889ad6e5103")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_GND")
+		(at 159.9946 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "521d2a0a-d163-4b98-828a-5aa6c03b0d65")
+		(property "Reference" "#PWR0106"
+			(at 159.9946 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 159.9946 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 159.9946 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 159.9946 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 159.9946 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d76829bd-1747-4eb8-a20d-520d8937325d")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:default297x210")
+		(at -11.43 -10.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "55afebf4-9571-496e-a5c0-b149a3d90fe6")
+		(property "Reference" "sensoe1"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "default297x210"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Board Name" "sensor_new"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" "2024-11-13"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Create Time" "14:57:41"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Page Count" "1"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Page Name" "sensor_new"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Page No" "1"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Project Name" "sw dual sensors"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Schematic Name" "sensor_new"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Update Date" "2024-11-13"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "@Update Time" "20:00:51"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "File" "sensor_new"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Id" "/"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sheet" "/"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Size" "&quot;A4&quot;"
+			(at -11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "sensoe1")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:Connector_Conn_01x09_Pin")
+		(at 21.59 114.2746 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f4744f8-3510-4b07-9e74-10e728f32e53")
+		(property "Reference" "J1"
+			(at 21.59 99.314 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x09_Pin"
+			(at 21.59 114.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:OSO-SWAB-B1-00 Sensor Watch Accelerometer:FH19C9S05SH10-FFC"
+			(at 21.59 114.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 114.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x09, script generated"
+			(at 21.59 114.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "FH19C9S05SH10-FFC"
+			(at 21.59 114.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f63611a-5eaa-47dd-a3c5-7d79a7e33217")
+		)
+		(pin "2"
+			(uuid "d07cc45e-4c3e-4060-a16d-64b7817086b6")
+		)
+		(pin "3"
+			(uuid "59473164-5c48-4d49-8e57-464091a999d1")
+		)
+		(pin "4"
+			(uuid "dfcea2e2-a968-4daa-9672-214703b7ec66")
+		)
+		(pin "5"
+			(uuid "d26cbe0a-e681-48e5-a4b8-e1615b2b1a71")
+		)
+		(pin "6"
+			(uuid "d62fff3f-2088-4d42-aa8a-422d537a7936")
+		)
+		(pin "7"
+			(uuid "447defa0-43b6-4c51-8084-2ac374c2ad3a")
+		)
+		(pin "8"
+			(uuid "14549abe-0c1e-4c6a-b757-048d97d194c0")
+		)
+		(pin "9"
+			(uuid "ae0e7c1c-6eee-4b8f-ba30-18228caa0c3d")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:LSM303AGR")
+		(at 73.66 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97848624-0c97-4497-85c1-e6565c625427")
+		(property "Reference" "U1"
+			(at 63.246 94.996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LSM303AGRTR"
+			(at 73.66 94.996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:Package_LGA:LGA-12_2x2mm_P0.5mm"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20180403/C126671_E4CABC5ABBEC58D74E548CEDEFA0489C.pdf"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Sensor Type:加速度传感器 Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "LSM303AGRTR"
+			(at -10.16 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(意法半导体)"
+			(at -10.16 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C126671"
+			(at -10.16 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at -10.16 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "LSM303AGRTR"
+			(at -10.16 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "LGA-12_2x2mm_P0.5mm"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "User doc link" "https://www.st.com/resource/en/datasheet/lsm303agr.pdf"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a716d05b-fef8-4243-9529-64983f02f8a6")
+		)
+		(pin "10"
+			(uuid "8c59f252-c0d0-4402-b7e2-c679ebb4a0b8")
+		)
+		(pin "11"
+			(uuid "795bea46-20c9-4adc-8685-891a31ad2ef2")
+		)
+		(pin "12"
+			(uuid "f0452bf3-a1d7-4d1e-9e6d-d2817f6efb3b")
+		)
+		(pin "2"
+			(uuid "8adf5629-f1b5-4529-9c1f-b618df677ee8")
+		)
+		(pin "3"
+			(uuid "37aa4e81-8621-437a-acc3-210167794e39")
+		)
+		(pin "4"
+			(uuid "f292c907-c776-4ac6-89da-f26a835469a3")
+		)
+		(pin "5"
+			(uuid "5e66ed84-0c9c-4a50-bcf3-5236614ce7bc")
+		)
+		(pin "6"
+			(uuid "bc9d96ac-0881-4e7a-b635-a005f5eaa6d2")
+		)
+		(pin "7"
+			(uuid "ddbb4566-0f9f-4bf5-bc37-b363b5613aba")
+		)
+		(pin "8"
+			(uuid "6e6efbf9-3fa6-43de-a5f8-abc33650f85a")
+		)
+		(pin "9"
+			(uuid "4803f4e6-3916-47e3-954d-76d15c011c7d")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:Device_C")
+		(at 100.33 104.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d237a44-fda9-492d-93c3-ddd30a8614aa")
+		(property "Reference" "C2"
+			(at 100.33 107.696 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 100.33 109.474 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:Capacitor_SMD:C_0402_1005Metric"
+			(at 100.33 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707763339.pdf"
+			(at 100.33 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitance: Tolerance:±10% Tolerance:±10% Voltage Rated: Temperature Coefficient:"
+			(at 100.33 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "CL03A104KP3NNNC"
+			(at 214.63 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMSUNG(三星)"
+			(at 214.63 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C49062"
+			(at 214.63 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 214.63 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "100nF ±10% 10V"
+			(at 214.63 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "C_0201_0603Metric"
+			(at 104.14 103.1748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "User doc link" "~"
+			(at 100.33 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91d13cfb-d684-40b7-90f8-e9d312e2a9ec")
+		)
+		(pin "2"
+			(uuid "c9ae3bef-500f-43f2-b9c1-32a56125d1fd")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:Device_C")
+		(at 71.12 126.9746 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa2c0386-1b7e-4d47-a6b5-1f18e290287d")
+		(property "Reference" "C1"
+			(at 64.77 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 66.04 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:Capacitor_SMD:C_0402_1005Metric"
+			(at 71.12 126.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200707/C696841_89A2C111301AB76AE7642008585E7A11.pdf"
+			(at 71.12 126.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitance:220nF Tolerance:±10% Tolerance:±10% Voltage Rated: Temperature Coefficient:"
+			(at 71.12 126.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "TCC0402X7R224K160AT"
+			(at -10.16 264.1092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CCTC(三环)"
+			(at -10.16 264.1092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C696846"
+			(at -10.16 264.1092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at -10.16 264.1092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "220nF ±10% 16V"
+			(at -10.16 264.1092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "C_0201_0603Metric"
+			(at 72.0852 130.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "User doc link" "~"
+			(at 71.12 126.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6e13e38-4a08-4dab-aa9d-dbb1d3288e42")
+		)
+		(pin "2"
+			(uuid "c05d5ff2-0c4a-4c71-9867-6a934dc30d8b")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_VCC")
+		(at 95.25 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "acef8011-09e4-47a4-8f10-1157df1b77fa")
+		(property "Reference" "#PWR0105"
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c9f89a5-573a-45bd-8381-170b4a97b94f")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_GND")
+		(at 104.14 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adb139d8-2d8c-44ba-9180-e04cc114ef51")
+		(property "Reference" "#PWR0101"
+			(at 104.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 104.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 104.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea69caee-423c-4491-950a-27986a2c698a")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:Device_C")
+		(at 100.33 99.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b558d4e5-05b6-44f9-bfce-23070d15fafb")
+		(property "Reference" "C3"
+			(at 100.33 93.726 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 100.33 95.758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:Capacitor_SMD:C_0402_1005Metric"
+			(at 100.33 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20231220/1EF805BAE1520675928CC4638D279E74.pdf"
+			(at 100.33 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitance: Tolerance:±20% Tolerance:±20% Voltage Rated: Temperature Coefficient:"
+			(at 100.33 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "CL05A106MP5NUNC"
+			(at 209.55 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMSUNG(三星)"
+			(at 209.55 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C315248"
+			(at 209.55 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 209.55 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "10uF ±20% 10V"
+			(at 209.55 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "C_0402_1005Metric"
+			(at 104.14 98.0948 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "User doc link" "~"
+			(at 100.33 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d076629f-14c9-49db-8589-04e8a00a4416")
+		)
+		(pin "2"
+			(uuid "6745f393-e96a-4500-978f-6abcc2859b57")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_VCC")
+		(at 151.1046 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b5b87c73-3dfb-4445-84bc-104f8538e02f")
+		(property "Reference" "#PWR0107"
+			(at 151.1046 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 151.1046 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 151.1046 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.1046 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.1046 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80fdc92a-4b1c-4d44-b109-6839d64ad80f")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_VCC")
+		(at 53.34 106.6546 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b925d3ef-f30f-4ade-bbdc-9bd7b7131f6b")
+		(property "Reference" "#PWR0104"
+			(at 53.34 106.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 53.34 106.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 53.34 106.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 106.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 53.34 106.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce8fc93c-df6c-48e8-a978-06195daf958a")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:POWER_GND")
+		(at 78.74 130.7846 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3075649-f007-47e9-bbf4-74811aafb8ea")
+		(property "Reference" "#PWR0103"
+			(at 78.74 130.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 78.74 130.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 78.74 130.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 130.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 130.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42c417cb-a934-4449-9ecd-710c058d3959")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_sw -easyedapro:LPS22DF")
+		(at 134.62 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc0b854c-70ae-4690-9729-bbf206eff40a")
+		(property "Reference" "U2"
+			(at 125.222 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LPS22DFTR"
+			(at 134.62 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProPrj_sw -easyedapro:"
+			(at 134.62 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221107/90D45CF97EBBC49C38FCF78A3947BD88.pdf"
+			(at 134.62 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Pressure range:26Kpa~126Kpa Pressure range:26Kpa~126Kpa The Power Supply Voltage:1.7V~3.6V The Power Supply Voltage:1.7V~3.6V Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃"
+			(at 134.62 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "LPS22DFTR"
+			(at -10.16 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(意法半导体)"
+			(at -10.16 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C3253714"
+			(at -10.16 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at -10.16 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "LPS22DFTR"
+			(at -10.16 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Origin Footprint" "ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y"
+			(at 134.62 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "User doc link" "https://www.st.com/resource/en/datasheet/lps22df.pdf"
+			(at 134.62 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "090cb565-019c-4331-a2a8-e5638ccc4de0")
+		)
+		(pin "10"
+			(uuid "7c10ab41-eaa5-4b77-a38c-d536231e2ad9")
+		)
+		(pin "2"
+			(uuid "7e8640f8-b01a-418a-8000-3b9f6bca479a")
+		)
+		(pin "3"
+			(uuid "97705912-5a57-4071-975e-7db155d0ba7b")
+		)
+		(pin "4"
+			(uuid "f25a948d-3642-4e5f-9518-43f693a4aea8")
+		)
+		(pin "5"
+			(uuid "4d77e326-40d6-40a9-95f1-73100c1b4949")
+		)
+		(pin "6"
+			(uuid "c9d3ab77-3461-4211-9d24-b0fa381d64c5")
+		)
+		(pin "7"
+			(uuid "40a42dd6-3ea6-43e1-a483-ca5ddf784c5c")
+		)
+		(pin "8"
+			(uuid "bede26b8-885e-42a3-85d9-147777f1fb99")
+		)
+		(pin "9"
+			(uuid "c382c136-1aac-47b4-9c32-4321488b59d0")
+		)
+		(instances
+			(project "ProPrj_sw dual sensors_2024-11-14"
+				(path "/591639e7-4932-44f8-8380-9b9c14c58ce7"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/a306405e-cbb8-40fc-87c4-a7511e849c0a"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

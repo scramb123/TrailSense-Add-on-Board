@@ -1,0 +1,130 @@
+(footprint "OSO-SWAB-B1-00 Sensor Watch Accelerometer{colon}FH19C9S05SH10-FFC"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "7b8639d2-3707-4c4a-9dcb-5a42921fd034")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5f58e5cd-5f33-4ed2-936a-5f01dc073d44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bdd00f4-666a-4b2e-a293-dcfe59bc397f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5cacd4fd-8bc7-4f2e-97b6-4df948084057")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f2b06beb-8316-43a0-814f-c85635bebdf7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy 2.5655 -3.556) (xy -2.5655 -3.556) (xy -2.5665 -0.898) (xy 2.5645 -0.898)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "5aacc9c0-d3eb-499c-90a6-d4a96506d5db")
+	)
+	(pad "1" smd rect
+		(at 2 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "54aad7d8-8931-4f5e-9e0d-a1f4b2ddb5a9")
+	)
+	(pad "2" smd rect
+		(at 1.5 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0918ec61-d3e7-4bc1-beb0-36963e89a4af")
+	)
+	(pad "3" smd rect
+		(at 1 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "63cd4a9c-2d87-4de2-906a-79e2a6a63ed8")
+	)
+	(pad "4" smd rect
+		(at 0.5 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "afb3f317-59ad-45ae-be62-d512ad41e37c")
+	)
+	(pad "5" smd rect
+		(at 0 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f525e0e9-7602-49fe-baee-a65b53aebf8f")
+	)
+	(pad "6" smd rect
+		(at -0.5 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6baf0aa1-03cb-4dba-9a0c-0c8d6f40991e")
+	)
+	(pad "7" smd rect
+		(at -1 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3d25a2fe-e813-4631-a5c9-24899d730a8b")
+	)
+	(pad "8" smd rect
+		(at -1.5 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "64dd995e-300f-4e21-b51d-345f2f4953b2")
+	)
+	(pad "9" smd rect
+		(at -2 -2.25 270)
+		(size 2.5 0.347)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f62d59d4-23cf-4486-b811-5fc148b91920")
+	)
+)

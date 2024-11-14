@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_sw dual sensors_2024-11-14")(type "KiCad")(uri "$(KIPRJMOD)/Sensorwatch TrailSense Add-on Board.pretty")(options "")(descr ""))
+)
